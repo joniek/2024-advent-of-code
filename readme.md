@@ -7,6 +7,30 @@ To challenge myself and keep my Python skills fresh.
 
 # Concepts
 | Day | Concepts |
-|-----|----------
-| 1 | c one|
+|---|---|
+| 01 Historian Hysteria | Sorting and pairing arrays. |
+| 02 Red-Nosed Reports | Array manipulation. |
+| 03 Mull It Over | Use Regular Expressions to extract pertinent information. |
+| 04 |  |
+| 05 |  |
+| 06 |  |
+| 07 |  |
+| 08 |  |
+| 09 |  |
+| 10 |  |
+| 11  |  |
+| 12  |  |
+| 13  |  |
+| 14  |  |
+| 15  |  |
+| 16  |  |
+| 17  |  |
+| 18  |  |
+| 19  |  |
+| 20  |  |
+| 21  |  |
+| 22  |  |
+| 23  |  |
+| 24  |  |
+| 25  |  |
 
