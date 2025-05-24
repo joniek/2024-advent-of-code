@@ -19,7 +19,7 @@ Each puzzle explores a different programming concept. These are my notes on my e
 | 08 | Resonant Collinearity | Mapping a 2D array | Plotting new points in a map required more thought on breaking the solution down into smaller functions. It was challenging and fun.  | 
 | 09 | Disk Fragmenter | Swapping values within a 1D array | The tricky aspect was moving 'files' in blocks. I needed to think through using shallow or deep copy to ensure values were kept intact, while ensuring that groups of 'files' could move together. It was a good mental workout.  |
 | 10 | Hoof It | Recursion | Using recursion to traverse a 2D 'hill' and return the trails. Part 2 was a challenge to discover every possible route up this 'hill'. |
-| 11  |  |  |  |
+| 11  | Plutonian Pebbles | Memoization and recursion | This puzzle properly humbled me. The problem was seemingly simple but computationally expensive. To solve this, I had to look up a [Reddit Tutorial](https://www.reddit.com/r/adventofcode/comments/1hbnyx1/2024_day_11python_mega_tutorial/) to brush up on my memoization skills. After a code rewrite, the speed improved immensely! |
 | 12  |  |  |  |
 | 13  |  |  |  |
 | 14  |  |  |  |
